@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/office-react-work2/static/css/main.c85ef7e0.css",
+    "main.js": "/office-react-work2/static/js/main.7f28675e.js",
+    "static/js/453.54c620fc.chunk.js": "/office-react-work2/static/js/453.54c620fc.chunk.js",
+    "static/media/banner-img.png": "/office-react-work2/static/media/banner-img.4de2ce8df3f7abd298a4.png",
+    "static/media/ashton-bingham-sahbl2upxco-unsplash.png": "/office-react-work2/static/media/ashton-bingham-sahbl2upxco-unsplash.1f8d013a5b8ab021b49b.png",
+    "static/media/javier-trueba-iqpr1xkf5f0-unsplash-2560-hq.png": "/office-react-work2/static/media/javier-trueba-iqpr1xkf5f0-unsplash-2560-hq.e33865dc4a86417bb1c9.png",
+    "static/media/4uQJ0h1QvGk-HD.png": "/office-react-work2/static/media/4uQJ0h1QvGk-HD.00c4331648ee834bc75b.png",
+    "static/media/rokj-erfahrungsbericht-1-610-hq.png": "/office-react-work2/static/media/rokj-erfahrungsbericht-1-610-hq.82dee0ce043f984bdd2e.png",
+    "static/media/Kontakt-responsive-img.png": "/office-react-work2/static/media/Kontakt-responsive-img.ab382ece2ca4b549a966.png",
+    "static/media/rokj-erfahrungsbericht-2.png": "/office-react-work2/static/media/rokj-erfahrungsbericht-2.62cdb829308f8cff4b28.png",
+    "static/media/rokj-erfahrungsbericht-4-610-hq.png": "/office-react-work2/static/media/rokj-erfahrungsbericht-4-610-hq.6653dca1c34e95b3b166.png",
+    "static/media/barometer-graph-1.svg": "/office-react-work2/static/media/barometer-graph-1.04c030c5f2d885b63e2b6792cc78f2df.svg",
+    "static/media/new-rokj-golftour-logo.svg": "/office-react-work2/static/media/new-rokj-golftour-logo.d49d7867831f474a9ec46bbfd19e8e68.svg",
+    "static/media/email_icon.svg": "/office-react-work2/static/media/email_icon.40e354ac0c56597242200b6b0938aed6.svg",
+    "static/media/new-logo.svg": "/office-react-work2/static/media/new-logo.315d7104151b4074809c1028805229dc.svg",
+    "index.html": "/office-react-work2/index.html",
+    "static/media/location_icon.svg": "/office-react-work2/static/media/location_icon.5dec088e3f31d683f0ba75143b3ad175.svg",
+    "main.c85ef7e0.css.map": "/office-react-work2/static/css/main.c85ef7e0.css.map",
+    "main.7f28675e.js.map": "/office-react-work2/static/js/main.7f28675e.js.map",
+    "453.54c620fc.chunk.js.map": "/office-react-work2/static/js/453.54c620fc.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c85ef7e0.css",
+    "static/js/main.7f28675e.js"
+  ]
+}
